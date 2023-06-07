@@ -1,0 +1,25 @@
+ .panel
+ {
+     -fx-background-color: "#A9C6EC";
+ }
+ .button{
+     -fx-background-color: "#A9C6EC";
+ }
+ .button:hover{
+     -fx-background-color: "#5A99EC";
+ }
+ .homepage{
+     -fx-background-color:"#000080";
+ }
+ .button1{
+     -fx-background-color: "#000080";
+ }
+ .button1:hover{
+     -fx-background-color: "#267BEB";
+ }
+ .pane{
+     -fx-background-color:"#000080";
+ }
+ .gp{
+     -fx-background-color: "white";
+ }
